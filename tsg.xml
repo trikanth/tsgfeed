@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TSG Annoucements</title>
+    <link>https://yourwebsite.com/</link>
+    <description>A short description of your feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Adidas Pass is available</title>
+      <link>https://yourwebsite.com/first-post</link>
+      <description>Adidas Employee Store pass will be sent out to your TSG Email.</description>
+      <pubDate>Mon, 28 Apr 2025 11:00:00 +0000</pubDate>
+      <guid>https://yourwebsite.com/first-post</guid>
+    </item>
+
+    <!-- You can add more <item> blocks here for more posts -->
+
+  </channel>
+</rss>
