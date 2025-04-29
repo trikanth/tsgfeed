@@ -12,11 +12,17 @@
       <link>https://yourwebsite.com/first-post</link>
       <description>Test message for the board.</description>
       <pubDate>Mon, 28 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://yourwebsite.com/first-post</guid>
-      
- 
-    </item>
+      <guid>https://yourwebsite.com/first-post</guid> 
+     </item>
 
+        <item>
+      <title>Another message on board</title>
+      <link>https://yourwebsite.com/first-post</link>
+      <description>Another message for the board.</description>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
+      <guid>https://yourwebsite.com/first-post</guid> 
+     </item>
+    
     <!-- You can add more <item> blocks here for more posts -->
 
   </channel>
