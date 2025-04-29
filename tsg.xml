@@ -13,6 +13,8 @@
       <description>Adidas Employee Store pass will be sent out to your TSG Email.</description>
       <pubDate>Mon, 28 Apr 2025 11:00:00 +0000</pubDate>
       <guid>https://yourwebsite.com/first-post</guid>
+      
+        <enclosure url="https://www.adidas-group.com/en/public/adidas-logo-white.svg" type="image/svg+xml" />
     </item>
 
     <!-- You can add more <item> blocks here for more posts -->
